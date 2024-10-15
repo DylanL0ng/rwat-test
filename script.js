@@ -142,9 +142,10 @@ const getDataUsingFetchPromise = () => {
 
 const tableBody = document.querySelector("tbody");
 
+// Display the user data in the table
 const displayUserTableData = (result) => {
   tableBody.innerHTML = "";
-  result.forEach(({ firstname, lastname, id, order, file }) => {
+  result.forEach(({ firstname, lastname, id }) => {
     tableBody.innerHTML += `
         <tr>
             <td>
@@ -161,6 +162,7 @@ const displayUserTableData = (result) => {
   });
 };
 
+// Add button clicks
 document.addEventListener("click", (e) => {
   const element = e.target.closest("button");
   if (!element) return;
