@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "Iris Indie",
+      "id": "X00444444",
+      "address": "Tallaght, D24",
+      "grades": [61, 71, 58, 70, 65, 67]
+    },
+    {
+      "name": "Jack Jobs",
+      "id": "C00444444",
+      "address": "Phibsboro, D7",
+      "grades": [60, 71, 55, 53, 44, 62]
+    },
+    {
+      "name": "Kat Kid",
+      "id": "C00555555",
+      "address": "Grangegorman, D7",
+      "grades": [41, 41, 50, 48, 55, 44]
+    },
+    {
+      "name": "Lula Lock",
+      "id": "C00666666",
+      "address": "Cabra, D7",
+      "grades": [77, 80, 85, 80, 78, 81]
+    }
+  ]
+}

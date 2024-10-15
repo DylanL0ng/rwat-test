@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "Emmy Ember",
+      "id": "X00333333",
+      "address": "Stoneybatter, D7",
+      "grades": [53, 55, 55, 52, 51, 60]
+    },
+    {
+      "name": "Fiona Falls",
+      "id": "C00111111",
+      "address": "Grangegorman, D7",
+      "grades": [90, 91, 88, 80, 81, 97]
+    },
+    {
+      "name": "Georgina Gull",
+      "id": "C00222222",
+      "address": "City Centre, D1",
+      "grades": [76, 67, 63, 71, 55, 82]
+    },
+    {
+      "name": "Harry Hops",
+      "id": "C00333333",
+      "address": "Cabra, D7",
+      "grades": [50, 33, 55, 11, 42, 61]
+    }
+  ]
+}

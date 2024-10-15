@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "name": "Annie Apple",
+      "id": "X00111111",
+      "address": "Phibsboro, D7",
+      "grades": [60, 71, 55, 53, 44, 62]
+    },
+    {
+      "name": "Ben Bounce",
+      "id": "B00111111",
+      "address": "Rathmines, D6",
+      "grades": [44, 22, 77, 33, 41, 50]
+    },
+    {
+      "name": "Charlie Curry",
+      "id": "B00222222",
+      "address": "Phibsboro, D7",
+      "grades": [80, 88, 75, 81, 90, 77]
+    },
+    {
+      "name": "Dan Dreamer",
+      "id": "X00222222",
+      "address": "Cabra, D7",
+      "grades": [64, 55, 66, 65, 78, 62]
+    }
+  ],
+  "data_location": "data2.json"
+}
